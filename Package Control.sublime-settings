@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Flexbox Snippets",
+		"Git Conflict Resolver",
+		"Increment Selection",
+		"jQuery",
+		"JSHint",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"Panda Syntax Sublime",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PHP-Twig",
+		"React Templates",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"Smarty",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"Twig",
+		"TypeScript"
+	]
+}
